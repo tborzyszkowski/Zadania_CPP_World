@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-| 12.06.2025  23:00  |    20  |
+| 11.06.2026  23:00  |    20  |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
